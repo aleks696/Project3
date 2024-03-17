@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 void main() {
   runApp(MainApp());
 }
-
+// App Дія
 class MainApp extends StatelessWidget {
 
   @override
